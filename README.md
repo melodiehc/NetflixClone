@@ -27,13 +27,8 @@ The app contains the following pages:
 - **Search** - Search movies by keywords.
 
 ## Getting Started
+1. Open `NetflixIndex.html` to view the app.
 
-1. Clone the repo `git clone https://github.com/user/netflix-clone.git`
-2. Open `index.html` to view the app.
-
-## Customizing Data
-
-The movie data is stored in `data.js`. Each movie has properties like title, genre, rating, summary etc. To add/edit/remove movies, simply modify this file.
 
 ## Contributing
 
