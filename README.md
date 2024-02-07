@@ -1,4 +1,4 @@
-Here is a README for a Netflix clone using HTML and CSS:
+
 
 # Netflix Clone
 
